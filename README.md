@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1145F7&center=true&vCenter=true&lines=Hi+there%2C+I'm+Grantley!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-🎓Currently, I'm a student at [Langara](https://langara.ca/)!
+🎓I'm currently a student at [Langara](https://langara.ca/).
 
 <!-- 🦁My website: [Thaomar](https://thaomar.com/) -->
 
