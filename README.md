@@ -11,4 +11,4 @@
 <!-- -  Certs:  -->
 <!-- -  Accomplishments:  -->
 
-      [![GitHub Streak](https://streak-stats.demolab.com?user=Grendlee&card_width=230&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+   [![GitHub Streak](https://streak-stats.demolab.com?user=Grendlee&card_width=230&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
