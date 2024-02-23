@@ -5,7 +5,7 @@
 <!-- 🦁My website: [Grendlee](https://Grendlee.com/) -->
 
 -  My goal right now is to complete the [CompTIA A+](https://www.comptia.org/certifications/a) certification.
--  How to reach me: <a href="mailto:grantley.kuo@gmail.com">Email</a> or [Linkedin](www.linkedin.com/in/grantleyk)
+-  How to reach me: <a href="mailto:grantley.kuo@gmail.com">Email</a> or [Linkedin](https://www.linkedin.com/in/grantleyk)
 -  Fun fact: I have a hamster named Pearly!
 <!-- -  Current interest: Developing a [weather web application](https://github.com/Grendlee/Weather-Web-Application) that reports the current weather data to the user based on their device location. -->
 <!-- -  Certs:  -->
