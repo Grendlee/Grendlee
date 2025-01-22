@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+there%2C+I'm+Grant!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=F7F7F7&width=435&lines=Hi+there%2C+I'm+Grant!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 🎓I'm currently a student at [Simon Fraser University](https://www.sfu.ca/) studying [Software Systems](https://www.sfu.ca/computing/prospective-students/undergraduate-students/programs/degree-programs/softwaresystems.html).
 
